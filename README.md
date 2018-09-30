@@ -1,2 +1,2 @@
-# rebitmqtest
+# rabbitmqtest
 rabbitmq test 
